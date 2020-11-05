@@ -1,1 +1,6 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![I love salads] 
+
+
+
+
+(https://en.wikipedia.org/wiki/Salad#/media/File:Salad_platter.jpg)
