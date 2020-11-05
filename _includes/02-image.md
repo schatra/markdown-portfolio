@@ -1,6 +1,1 @@
-![I love salads] 
-
-
-
-
-(https://en.wikipedia.org/wiki/Salad#/media/File:Salad_platter.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
